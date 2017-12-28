@@ -1,6 +1,6 @@
 # Recruiting Service
 
-Recruiting service handles complete recruitment cycle starting from job opening till offers. More details available on this link https://github.com/HeavenHR/java-interview-exercise
+Recruiting service handles complete recruitment cycle starting from job opening till offers.
 
 ### Tech stack
 
